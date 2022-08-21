@@ -1,6 +1,6 @@
 # Author: Feiyue
 # Date: 2022-08-20
-I love :coffe :pizza and :dancer
+I love :coffee: :pizza: and :dancer:
 
 import os
 import numpy as np
